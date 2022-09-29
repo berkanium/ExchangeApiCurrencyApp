@@ -1,4 +1,4 @@
-// Elementleri Seçme
+// Select Element
 const amountElement = document.querySelector("#amount");
 const firstSelect = document.querySelector("#firstCurrency");
 const secondSelect = document.querySelector("#secondCurrency");
